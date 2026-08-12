@@ -25,4 +25,4 @@
 | 091 | Champion | ESB |
 | 092 | Promoter | CBN |
 | ??? | Champion (Form 1) | ESN |
-| ??? | PHoenix Cyclops | ??? |
+| ??? | Phoenix Cyclops | ??? |
